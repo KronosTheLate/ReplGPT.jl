@@ -51,7 +51,7 @@ ChatGPT>
 ## Getting Started:
 You will need to obtain an OpenAI API key from [openai.com](https://platform.openai.com/account/api-keys) and pass it to Julia. ReplGPT.jl
 will look for an API key in the module's settings and in 
-the `OPENAI_API_KEY` environment variable as a fallback.
+the `OPENAI_API_KEY` environment variable as a fallback. Note that you will have to add funds to your account to use ReplGPT.jl!
 
 The **recommended approach** is to save the API key in the 
 module's settings by running:
